@@ -1,1 +1,1 @@
-# GHG-emissions
+# Green House Gas (GHG) emissions
