@@ -21,7 +21,7 @@ merged=merged[merged['Income group'].notna()]
 summed_emission=merged.groupby('Income group').sum(numeric_only=True)
 summed_emissions_transposed = summed_emission.T
 
-### Plot
+### Create the plot
 plt.figure(figsize=(12, 6))
 
 for income_group in summed_emissions_transposed.columns:
