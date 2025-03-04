@@ -4,6 +4,8 @@ This project analyzes Greenhouse Gas (GHG) emissions using data from the EDGAR d
 The goal was to visualize emissions data through bar charts, providing insights into trends 
 across different regions, income groups and time periods.
 
+# Data Preparation
+
 # Data Source and Citation
 The data used in this project comes from the EDGAR (Emissions Database for Global Atmospheric Research) 
 database (https://edgar.jrc.ec.europa.eu/report_2024#data_download). Users of this data are required to
