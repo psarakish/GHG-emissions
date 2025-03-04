@@ -10,4 +10,5 @@ database (https://edgar.jrc.ec.europa.eu/report_2024#data_download). Users of th
 acknowledge the source as follows:
 * EDGAR Report webpage: https://edgar.jrc.ec.europa.eu/report_2024
 * EDGAR 2024 GHG dataset: https://edgar.jrc.ec.europa.eu/dataset_ghg2024
+
 If you use this data, please cite the relevant EDGAR reports as per their guidelines.
