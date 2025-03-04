@@ -1,7 +1,7 @@
 # Greenhouse Gas (GHG) Emissions Visualization
 
 This project analyzes Greenhouse Gas (GHG) emissions using data from the EDGAR database. 
-The goal was to visualize emissions data through charts, providing insights into trends 
+The goal was to visualize emission data through charts, providing insights into trends 
 across different regions, income groups and time periods.
 
 # Data Preparation
